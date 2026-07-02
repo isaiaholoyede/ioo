@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ioo.github.io/quartz
+  baseUrl: isaiaholoyede.github.io/ioo
   ignorePatterns:
     - private
     - templates
