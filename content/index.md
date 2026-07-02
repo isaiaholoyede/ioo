@@ -33,5 +33,3 @@ def binary_search(arr, target):
             hi = mid - 1
     return -1
 ```
-
-This is a test.
