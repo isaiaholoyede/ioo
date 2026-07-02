@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: isaiaholoyede.github.io/ioo
+  baseUrl: isaiaholoyede.github.io
   ignorePatterns:
     - private
     - templates
