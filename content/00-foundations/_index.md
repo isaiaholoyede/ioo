@@ -8,7 +8,7 @@ description: The bedrock layer — programming, mathematics, and engineering fun
 
 # Foundations
 
-Everything else in this vault rests on what is here. Before power systems, before machine learning, before control theory — there is mathematics, programming, and engineering fundamentals.
+Everything else in this vault rests on what is here. Before power systems, machine learning, and control theory, there is mathematics, programming, and engineering fundamentals.
 
 These are not prerequisites to be checked off and forgotten. They are living references. The deeper the specialization, the more often you return to the foundation.
 

@@ -1,12 +1,12 @@
 ---
-title: 
+title:
 date: {{date:YYYY-MM-DD}}
 tags:
   - 
   - type/derivation
   - status/seedling
 draft: true
-description: 
+description:
 ---
 
 # {{title}}
