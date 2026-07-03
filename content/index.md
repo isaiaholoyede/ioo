@@ -23,6 +23,64 @@ Notes are organized by domain. Use the graph view to discover connections across
 
 ## Domains
 
+  
+
+```mermaid
+
+timeline
+
+title Domain Mastery Plan
+
+Foundation : Programming Foundations
+
+: Mathematical Foundations
+
+: Engineering Foundations
+
+: Electrical Engineering
+
+: Power Systems Engineering
+
+: Technical Product Management
+
+Intermediate : Distribution Power Systems Engineering
+
+: Renewable Energy and Distributed Energy Resources
+
+: Power Electronics Foundation
+
+: Control Systems
+
+: Software Engineering
+
+: Agentic AI
+
+Advanced : Communications and Networking
+
+: Software and Information Systems
+
+: Data Science and Artificial Intelligence
+
+: Cybersecurity
+
+: Distribution System Operator
+
+: Fundamentals of Engineering (FE)
+
+Expert : Capstone Expertise Areas
+
+: PhD, Electrical Engineering
+
+: PhD, Energy Engineering
+
+: Sloan MIT Executive MBA
+
+: Professional Engineer (PE)
+
+: Technical Consulting Services
+
+```
+
 ### [[00-foundations/_index|Foundations]]
 Fundamental knowledge from first principles.
 
