@@ -7,7 +7,7 @@ description: Engineering, mathematics, and systems — documented as I go.
 
 This is my open notebook. Every concept I study, every problem I solve, every credential I pursue is documented here as I go.
 
-The goal is pursue mastery, visibly, one note at a time.
+The goal is to pursue mastery, visibly, one note at a time.
 
 ---
 
@@ -24,7 +24,7 @@ Notes are organized by domain. Use the graph view to discover connections across
 ## Domains
 
 ### [[00-foundations/_index|Foundations]]
-Knowledge from first principles.
+Fundamental knowledge from first principles.
 
 #### [[00-foundations/programming/_index|Programming Foundations]]
 
@@ -81,5 +81,6 @@ Formal learning paths, exam preparation, and degree programs in progress.
 
 - [[04-credentials/fe-exam/_index|FE Exam]]
 - [[04-credentials/pe-exam/_index|PE Exam]]
-- [[04-credentials/mit-sloan-mba/_index|MIT Sloan MBA]]
-- [[04-credentials/phd-electrical-engineering/_index|PhD EE]]
+- [[04-credentials/mit-sloan-mba/_index|MIT Sloan Executive MBA]]
+- [[04-credentials/phd-electrical-engineering/_index|PhD — Electrical Engineering]]
+- [[04-credentials/phd-energy-engineering/_index|PhD — Energy Engineering]]
