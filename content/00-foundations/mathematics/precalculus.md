@@ -1,5 +1,5 @@
 ---
-title: Precaculus
+title: Precalculus
 date: 2026-07-10
 tags:
   - status/seedling
@@ -9,7 +9,7 @@ draft: false
 description: Precalculus and Mathematical Thinking
 ---
  
-# Precaculus and Mathematical Thinking
+# Precalculus and Mathematical Thinking
 
 
 ---
