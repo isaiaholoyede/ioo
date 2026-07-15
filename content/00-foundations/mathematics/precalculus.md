@@ -5,7 +5,7 @@ tags:
   - status/seedling
   - foundations/math
   - type/roadmap
-draft: true
+draft: false
 description: Precalculus and Mathematical Thinking
 ---
 
