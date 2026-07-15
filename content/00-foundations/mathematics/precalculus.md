@@ -62,7 +62,7 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 
 - **Professor Leonard — Precalculus: College Algebra & Trigonometry (YouTube Playlist)**
 
-- **Link:** [youtube.com/playlist — Professor Leonard Precalculus](https://www.classcentral.com/course/youtube-precalculus-college-algebra-trigonometry-64609)
+- **Link:** [youtube.com/playlist — Professor Leonard Precalculus](https://www.youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP)
 
 - **Type:** Full lecture series
 
@@ -93,7 +93,25 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 
 **Duration:** ~3 weeks (at 10 hrs/week)
 
-  
+**Progress Tracker:**
+- [ ] Khan Academy — Pre-Algebra course 
+	- [ ] Unit 1: Factors and multiples
+	- [ ] Unit 2: Patterns
+	- [ ] Unit 3: Ratios and rates
+	- [ ] Unit 4: Percentages
+	- [ ] Unit 5: Exponents intro and order of operations
+	- [ ] Unit 6: Variables & expressions
+	- [ ] Unit 7: Equations & inequalities introduction
+	- [ ] Unit 8: Percent & rational number word problems
+	- [ ] Unit 9: Proportional relationships
+	- [ ] Unit 10: One-step and two-step equations & inequalities
+	- [ ] Unit 11: Roots, exponents, & scientific notation
+	- [ ] Unit 12: Multi-step equations
+	- [ ] Unit 13: Two-variable equations
+	- [ ] Unit 14: Functions and linear models
+	- [ ] Unit 15: Systems of equations
+- [ ] [Professor Leonard's  prealgebra videos](https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13)
+
 
 ### Phase 2: Algebra 1
 
@@ -105,7 +123,9 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 
 **Duration:** ~5 weeks
 
-  
+**Progress Tracker:**
+ - [ ] Khan Academy — Algebra 1 course 
+
 
 ### Phase 3: Algebra 2
 
@@ -117,7 +137,10 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 
 **Duration:** ~6 weeks
 
-  
+**Progress Tracker:**
+ - [ ] Khan Academy — Algebra 2 course 
+ - [ ] Khan Academy — College Algebra course 
+
 
 ### Phase 4: Standard Precalculus
 
@@ -129,7 +152,9 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 
 **Duration:** ~8 weeks
 
-  
+**Progress Tracker:**
+ - [ ] Khan Academy — Precalculus course 
+ - [ ] Professor Leonard's Precalculus videos    
 
 ### Phase 5: Expert-Level Deep Dive
 
