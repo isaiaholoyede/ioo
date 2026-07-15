@@ -15,6 +15,9 @@ Mathematics is the shared language of every technical domain in this vault. Thes
 
 ## Core Topics
 
+### Precalculus
+College algebra, Trigonometry.
+
 ### Calculus
 Limits, derivatives, integrals, multivariable calculus, vector calculus. The language of rates of change and accumulation.
 
