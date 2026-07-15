@@ -8,8 +8,7 @@ tags:
 draft: false
 description: Precalculus and Mathematical Thinking
 ---
-
-  
+ 
 # Precaculus and Mathematical Thinking
 
 

@@ -15,7 +15,7 @@ Mathematics is the shared language of every technical domain in this vault. Thes
 
 ## Core Topics
 
-### Precalculus
+### [[Precalculus]]
 College algebra, Trigonometry.
 
 ### Calculus
