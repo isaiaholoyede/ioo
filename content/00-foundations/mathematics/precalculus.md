@@ -50,7 +50,7 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 
 - **Type:** Textbook + solutions manual (2-book set)
 
-- **Cost:** ~\$57 for text, ~\$30 for solutions manual (~\$87 total); also available as an online book
+- **Cost:** \~\$57 for text, \~\$30 for solutions manual (\~\$87 total); also available as an online book
 
 - **Format:** Self-paced; discovery-based pedagogy where each section opens with problems before teaching the theory
 
