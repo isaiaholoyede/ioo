@@ -96,6 +96,9 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 **Progress Tracker:**
 - [ ] Khan Academy — Pre-Algebra course 
 	- [ ] Unit 1: Factors and multiples
+		- [x] Factors and multiples (date completed: 07/14/2026)
+		- [ ] Prime and composite numbers
+		- [ ] Prime factorization
 	- [ ] Unit 2: Patterns
 	- [ ] Unit 3: Ratios and rates
 	- [ ] Unit 4: Percentages
