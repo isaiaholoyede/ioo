@@ -6,6 +6,7 @@ tags:
   - software/ai
   - type/roadmap
 description: Statistics, machine learning, deep learning, data pipelines, and AI applied to engineering problems.
+draft: true
 ---
 
 # Data Science & Artificial Intelligence

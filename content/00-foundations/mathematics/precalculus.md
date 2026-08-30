@@ -82,10 +82,11 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 
 ## The Learning Path
 
-
 ### Phase 1: Arithmetic & Pre-Algebra Foundations
 
-**Resource:** Khan Academy — Pre-Algebra course
+**Resource:** 
+- Khan Academy — Pre-Algebra course
+- Basic Mathematics by Serge Lang
 
 **What you'll master:** Number properties, fractions, decimals, percentages, basic equations, order of operations, negative numbers, exponent basics, intro to variables
 
@@ -97,8 +98,8 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 - [ ] Khan Academy — Pre-Algebra course 
 	- [ ] Unit 1: Factors and multiples
 		- [x] Factors and multiples (date completed: 07/14/2026)
-		- [ ] Prime and composite numbers
-		- [ ] Prime factorization
+		- [x] Prime and composite numbers (date completed: 07/15/2026)
+		- [x] Prime factorization (date completed: 07/16/2026)
 	- [ ] Unit 2: Patterns
 	- [ ] Unit 3: Ratios and rates
 	- [ ] Unit 4: Percentages
@@ -114,6 +115,30 @@ Expert-level competence in Precalculus and Mathematical Thinking means you can f
 	- [ ] Unit 14: Functions and linear models
 	- [ ] Unit 15: Systems of equations
 - [ ] [Professor Leonard's  prealgebra videos](https://www.youtube.com/playlist?list=PL4C9296DF81B9EF13)
+- [ ] Basic Mathematics by Serge Lang
+	- [ ] Part I Algebra
+		- [ ] Chapter 1 Numbers
+		- [ ] Chapter 2 Linear Equations
+		- [ ] Chapter 3 Real Numbers
+		- [ ] Chapter 4 Quadratic Equations
+		- [ ] Interlude On Logic and Mathematical Expressions
+	- [ ] Part II Intuitive Geometry
+		- [ ] Chapter 5 Distance and Angles
+		- [ ] Chapter 6 Isometries
+		- [ ] Chapter 7 Area and Applications
+	- [ ] Part III Coordinate Geometry
+		- [ ] Chapter 8 Coordinates and Geometry
+		- [ ] Chapter 9 Operations on Points
+		- [ ] Chapter 10 Segments, Rays, and Lines
+		- [ ] Chapter 11 Trigonometry
+		- [ ] Chapter 12 Some Analytic Geometry 
+	- [ ] Part IV Miscellaneous 
+		- [ ] Chapter 13 Functions
+		- [ ] Chapter 14 Mappings
+		- [ ] Chapter 15 Complex Numbers
+		- [ ] Chapter 16 Induction and Summations
+		- [ ] Chapter 17 Determinants
+
 
 
 ### Phase 2: Algebra 1

@@ -4,6 +4,7 @@ date: 2026-07-02
 tags:
   - type/roadmap
 description: Formal learning paths, exam preparation, and degree programs.
+draft: true
 ---
 
 # Credentials

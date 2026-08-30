@@ -5,6 +5,7 @@ tags:
   - software/information-systems
   - type/roadmap
 description: Data modeling, enterprise systems, systems integration, and information architecture.
+draft:
 ---
 
 # Software & Information Systems

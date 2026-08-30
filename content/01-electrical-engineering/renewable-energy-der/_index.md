@@ -5,6 +5,7 @@ tags:
   - ee/renewable-der
   - type/roadmap
 description: Solar, wind, storage, microgrids, and the integration of distributed generation into the grid.
+draft: true
 ---
 
 # Renewable Energy & Distributed Energy Resources

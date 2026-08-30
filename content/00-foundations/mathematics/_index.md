@@ -5,6 +5,7 @@ tags:
   - foundations/math
   - type/roadmap
 description: The mathematical language of engineering — calculus, linear algebra, differential equations, probability, and discrete math.
+draft: true
 ---
 
 # Mathematical Foundations

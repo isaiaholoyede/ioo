@@ -4,6 +4,7 @@ date: 2026-07-02
 tags:
   - type/roadmap
 description: Software engineering, data science, AI, agentic systems, and cybersecurity.
+draft: true
 ---
 
 # Software & Information Systems

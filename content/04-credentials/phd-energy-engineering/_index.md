@@ -5,6 +5,7 @@ tags:
   - credentials/phd-energy
   - type/roadmap
 description: Doctoral-level research in energy systems — spanning engineering, economics, policy, and sustainability.
+draft: true
 ---
 
 # PhD — Energy Engineering
