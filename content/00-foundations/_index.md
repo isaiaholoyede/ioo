@@ -4,7 +4,7 @@ date: 2026-07-02
 tags:
   - type/roadmap
 description: The bedrock layer — programming, mathematics, and engineering fundamentals that every other domain in this vault builds on.
-draft: true
+draft: false
 ---
 
 # Foundations
