@@ -4,7 +4,7 @@ date: 2026-07-02
 tags:
   - type/roadmap
 description: The core discipline — power, control, signals, electronics, and communications.
-draft: true
+draft: false
 ---
 
 # Electrical Engineering

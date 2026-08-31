@@ -5,7 +5,7 @@ tags:
   - domain/consulting
   - type/roadmap
 description: Frameworks, methodologies, and skills for delivering technical advisory services in energy and infrastructure.
-draft: true
+draft: false
 ---
 
 # Technical Consulting Services
