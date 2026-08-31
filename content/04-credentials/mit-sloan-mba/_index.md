@@ -5,7 +5,7 @@ tags:
   - credentials/mba
   - type/roadmap
 description: Business, strategy, finance, leadership, and innovation at MIT Sloan.
-draft: true
+draft: false
 ---
 
 # MIT Sloan Executive MBA

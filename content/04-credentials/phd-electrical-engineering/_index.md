@@ -5,7 +5,7 @@ tags:
   - credentials/phd-ee
   - type/roadmap
 description: Doctoral-level research in electrical engineering — advanced theory, research methodology, and original contribution.
-draft: true
+draft: false
 ---
 
 # PhD — Electrical Engineering

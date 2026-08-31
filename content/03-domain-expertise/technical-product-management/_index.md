@@ -5,7 +5,7 @@ tags:
   - domain/tpm
   - type/roadmap
 description: Building and shipping technical products — roadmapping, stakeholder management, and working with engineering teams in energy and infrastructure contexts.
-draft: true
+draft: false
 ---
 
 # Technical Product Management

@@ -5,7 +5,7 @@ tags:
   - software/engineering
   - type/roadmap
 description: Designing, building, and maintaining software at scale — architecture, APIs, testing, and DevOps.
-draft: true
+draft: false
 ---
 
 # Software Engineering

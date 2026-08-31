@@ -5,7 +5,7 @@ tags:
   - ee/communications
   - type/roadmap
 description: Communication protocols, SCADA, IEC 61850, DNP3, fiber and wireless for grid infrastructure.
-draft: true
+draft: false
 ---
 
 # Communications & Networking

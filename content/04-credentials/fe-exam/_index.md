@@ -5,7 +5,7 @@ tags:
   - credentials/fe
   - type/roadmap
 description: Preparation notes for the NCEES FE Electrical and Computer Engineering exam.
-draft: true
+draft: false
 ---
 
 # FE Exam — Fundamentals of Engineering

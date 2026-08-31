@@ -5,7 +5,7 @@ tags:
   - status/seedling
   - type/roadmap
   - foundations/math
-draft: true
+draft: false
 description:
 AI-Generated: Yes
 ---

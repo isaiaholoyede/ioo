@@ -5,7 +5,7 @@ tags:
   - credentials/pe
   - type/roadmap
 description: Preparation notes for the NCEES PE Electrical and Computer — Power exam.
-draft: true
+draft: false
 ---
 
 # PE Exam — Professional Engineer (Power)

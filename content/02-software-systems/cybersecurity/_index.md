@@ -5,7 +5,7 @@ tags:
   - software/cybersecurity
   - type/roadmap
 description: Information security fundamentals, OT/ICS security, network defense, and secure-by-design for critical infrastructure.
-draft: true
+draft: false
 ---
 
 # Cybersecurity

@@ -5,7 +5,7 @@ tags:
   - ee/control-systems
   - type/roadmap
 description: Feedback, stability, PID controllers, state-space methods, and modern control — the theory behind automatic regulation of any dynamic system.
-draft: true
+draft: false
 ---
 
 # Control Systems

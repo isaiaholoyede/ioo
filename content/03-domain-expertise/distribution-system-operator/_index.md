@@ -5,7 +5,7 @@ tags:
   - domain/dso
   - type/roadmap
 description: The role, responsibilities, tools, and decisions involved in operating a modern electric distribution system.
-draft: true
+draft: false
 ---
 
 # Distribution System Operator (DSO)

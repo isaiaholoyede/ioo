@@ -5,7 +5,7 @@ tags:
   - foundations/engineering
   - type/roadmap
 description: Core engineering principles — circuits, thermodynamics, mechanics, and systems analysis.
-draft: true
+draft: false
 ---
 
 # Engineering Foundations

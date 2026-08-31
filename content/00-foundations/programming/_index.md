@@ -5,7 +5,7 @@ tags:
   - foundations/programming
   - type/roadmap
 description: Core programming knowledge — languages, data structures, algorithms, and software design.
-draft: true
+draft: false
 ---
 
 # Programming Foundations
